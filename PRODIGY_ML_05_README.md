@@ -113,7 +113,7 @@ os.chmod('/root/.kaggle/kaggle.json', 0o600)
 ---
 
 ## 👤 Author
-**Umesh**  
+**VIGNESH**  
 Machine Learning Intern — Prodigy InfoTech  
 🔗 [GitHub](https://github.com/Umesh3516)
 
